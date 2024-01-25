@@ -1,1 +1,1 @@
-# denoising-autoencoder-cifar10
+# DENOISING AUTOENCODER FOR CIFAR-10
