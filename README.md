@@ -7,13 +7,9 @@ Model reconstructions with 0.4 noise
 
 Network Architecture:
 
-    4 Convolutional Layers
+    2 Convolutional Layers
     
-    4 Fully Connected Layers
-    
-    Max Pooling Layers
-    
-    Dropout Layers
+    2 Transposed Convolutional Layers
     
     Batch Normalization Layers
 
